@@ -1,0 +1,1 @@
+*ERROR* 	v1.7.6.8	2020/10/08 - 15:04:53: Table &#039;prestashop.ps_ps_product&#039; doesn&#039;t exist&lt;br /&gt;&lt;br /&gt;&lt;pre&gt;SELECT COUNT(*) FROM `ps_ps_product` LIMIT 1&lt;/pre&gt; at line 769 in file classes/db/Db.php
